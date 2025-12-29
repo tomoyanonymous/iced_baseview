@@ -29,7 +29,7 @@ system = ["dep:sysinfo"]
 trace = []
 
 [dependencies]
-baseview = { git = "https://github.com/tomoyanonymous/baseview.git", branch = "macos_fix" }
+baseview = { git = "https://github.com/tomoyanonymous/baseview.git", rev = "d73e0b912c8c0f2989db6338fd5f07ec09ff4dd3" }
 cfg-if = "1"
 window_clipboard = "0.4.1"
 iced_runtime = "0.13"
