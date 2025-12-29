@@ -29,7 +29,7 @@ system = ["dep:sysinfo"]
 trace = []
 
 [dependencies]
-baseview = { git = "https://github.com/RustAudio/baseview.git", rev = "579130ecb4f9f315ae52190af42f0ea46aeaa4a2" }
+baseview = { git = "https://github.com/tomoyanonymous/baseview.git", branch = "macos_fix" }
 cfg-if = "1"
 window_clipboard = "0.4.1"
 iced_runtime = "0.13"
